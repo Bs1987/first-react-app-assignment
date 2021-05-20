@@ -46,7 +46,7 @@ function App() {
                     image={ijsblokjes}
                     title="Ijsblokjes"
                     description="Een ijsblokje of ijsklontje is bevroren water in de vorm van een klein blokje. Het wordt gemaakt in
-          een diepvriezer door water in een plastic vorm te laten bevriezen."
+          een diepvriezer door water in een plastic vorm te laten bevriezen. "
                 />
             </main>
         </>
